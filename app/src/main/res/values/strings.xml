@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas1</string>
+
+    <string name="text_nilai_tugas">Nilai tugas</string>
+    <string name="text_nilai_uts">Nilai UTS</string>
+    <string name="text_nilai_uas">Nilai UAS</string>
+    <string name="text_hitung_dan_tampil">Hitung Dan Tampil</string>
+    <string name="text_hasil">Hasil</string>
+    <string name="action_settings">Settings</string>
+</resources>
