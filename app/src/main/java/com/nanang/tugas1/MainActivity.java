@@ -43,7 +43,7 @@ public class MainActivity extends ActionBarActivity {
                     textViewHasil.setText(hasil  + " / E");
                     textViewHasil.setTextColor(Color.RED);
                 }
-                // Extra note for testing
+                // Other testing
             }
         });
     }
